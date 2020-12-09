@@ -30,5 +30,5 @@ try {
 	e.printStackTrace();
 }
 
-response.sendRedirect("../index.jsp?section=artist_lookup");
+response.sendRedirect("../index.jsp?section=list");
 %>
