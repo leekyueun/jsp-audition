@@ -38,6 +38,7 @@
 				talent = "랩";
 				break;
 			}
+			
 		%>
 		<tr>
 			<td> <%= rs.getString(1) %></td>
